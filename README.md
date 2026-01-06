@@ -20,15 +20,15 @@ O sistema tem por objetivo:
 # 🧰 Tecnologias Utilizadas
 
 ### **Backend / Core**
-- Java  
-- Spring  
-- MySQL  
+- .Net
+- Blazro 
+- PostgreSQL  
 - Docker / Kubernetes  
 
 ### **Frontend**
 - JavaFX (desktop)  
-- Next.js / React (web)  
-- React Native (mobile)
+- Angular / React (web)  
+- React Native, Ionic (mobile)
 
 ### **Infra e DevOps**
 - Docker  
